@@ -1,7 +1,8 @@
 # EDA
 STEPS INVOLVED IN NOTEBOOK
 WE PERFORM AN EXPLORATORY ANALYSIS OF UNKNOWN TIMESERIES DATASET
-1)Look at data structure,time-series - r1 to r12, correlation between features, created data functions, normalization of time-series data - kmeans_dtw_seasonal.png
+1)Look at data structure,time-series - r1 to r12, correlation between features, created data functions, normalization of time-series data - ![dtw_distances_for_seasonal](https://github.com/hri-tick/EDA/assets/138192141/0ff953f8-a212-4794-abee-e6e24843b8be)
+
 
 2)Visualize the time-series to gain insights into its pattern,trends over hourly,daily,monthly,seasonal timestamp and some other visualizations
 
