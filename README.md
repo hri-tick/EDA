@@ -35,12 +35,12 @@ Timeseries KMeans algorithm using 2 different metrics - DTW and Euclidean on mon
 ![timeseries_kmeans_monthly_euclidian](https://github.com/hri-tick/EDA/assets/138192141/fb7b6d14-40a6-4ec5-8cea-331d278f540c)
 
 
-4 - on Seasonal Data 
+4 - on Seasonal Data - DTW
 
 ![timeseries_kmeans_seasonal](https://github.com/hri-tick/EDA/assets/138192141/7bb1177d-5c65-4a51-b815-37d36a5104a5)
 
 
-5 - on Daily Data
+5 - on Daily Data -DTW
 
 
 ![daily_kmeans](https://github.com/hri-tick/EDA/assets/138192141/17c75255-2c7b-459b-b644-cc29ed93fc05)
@@ -48,6 +48,6 @@ Timeseries KMeans algorithm using 2 different metrics - DTW and Euclidean on mon
 
 Other Cluster Plots, thier Silhouette Score, and details is in the notebook
 
-Conclusion - *DTW Timeseries KMeans Clustering is gives more accuracy on this dataset rather than Euclidean Timeseries KMeans Clustering*
+Conclusion - *DTW Timeseries KMeans Clustering gives more Silhoutte Score on this dataset rather than Euclidean Timeseries KMeans Clustering*
 
 You can find the relevant code in the notebook linked to the repo. Feel free to explore more 
