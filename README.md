@@ -18,21 +18,34 @@ Using Elbow method to determine no. of clusters for Timseries KMeans Method
 
 
 Timeseries KMeans algorithm using 2 different metrics - DTW and Euclidean on monthly,seasonal,daily,hourly data
+
 1 - r1-r12 monthly on one plot
+
 
 ![r1-r12_same_plot](https://github.com/hri-tick/EDA/assets/138192141/df59301b-8f54-47a3-bfee-bd5c55ac61d1)
 
 2 - Timeseries KMeans by DTW metric for Montly Data
+
+
 ![timeseries_kmeans_monthly](https://github.com/hri-tick/EDA/assets/138192141/b42a01dd-d561-4d7f-9099-e84a87a84e19)
 
 3 - Timeseries KMeans by Euclidean Metric for Monthly Data
+
+
 ![timeseries_kmeans_monthly_euclidian](https://github.com/hri-tick/EDA/assets/138192141/fb7b6d14-40a6-4ec5-8cea-331d278f540c)
 
+
 4 - on Seasonal Data 
+
 ![timeseries_kmeans_seasonal](https://github.com/hri-tick/EDA/assets/138192141/7bb1177d-5c65-4a51-b815-37d36a5104a5)
 
+
 5 - on Daily Data
+
+
 ![daily_kmeans](https://github.com/hri-tick/EDA/assets/138192141/17c75255-2c7b-459b-b644-cc29ed93fc05)
+
+
 Other Cluster Plots, thier Silhouette Score, and details is in the notebook
 
 Conclusion - *DTW Timeseries KMeans Clustering is gives more accuracy on this dataset rather than Euclidean Timeseries KMeans Clustering*
